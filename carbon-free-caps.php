@@ -45,24 +45,21 @@
 
     <div class="rts-service-details-area py-5">
         <div class="container">
-
             <!-- Section 1: Image Left, Text Right -->
             <div class="row align-items-center mb-5 flex-wrap">
                 <div class="col-lg-6">
                     <img src="assets/images/service/recd.jpg" data-aos="zoom-in" class="img-fluid p-image"
                         alt="CarbonFree CAPs">
-
                 </div>
                 <div class="col-lg-6">
-                    <h3 class="title title-g">India’s First Step Towards a Greener Crematorium</h3>
-                    <p class="disc-1">For the first time in India, there’s a clean and conscious choice for traditional
-                        last rites.
-                        Novorbis Carbonfree CAPS helps reduce toxic emissions from crematoriums — making every ritual
-                        respectful to both tradition and nature.
-
+                    <h3 class="title title-g">Efficient. Robust. Built for sensitive spaces</h3>
+                    <p class="disc-1">
+                        Crematorium Air Purification System is specially designed to reduce harmful emissions released
+                        during cremations. It targets pollutants like Particulate Matter, VOCs, and toxic gases,
+                        ensuring cleaner air in and around crematoriums. With strong filtration and low maintenance,
+                        CAPS supports environmental care where it’s needed most.
                     </p>
-                    <h4 class="title title-g mt-4"> "Hamari Parampara, Hamari Zimmedari"</h4>
-
+                    <!-- <h4 class="title title-g mt-4"> "Hamari Parampara, Hamari Zimmedari"</h4> -->
                 </div>
             </div>
 

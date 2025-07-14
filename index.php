@@ -25,7 +25,6 @@
 <body>
     <?php include "navbar1.php" ?>
 
-
     <!-- Banner -->
     <div class="rts-banner-six-area bg-image-solution banner-six-height">
         <video muted loop autoplay>
@@ -51,16 +50,9 @@
     <!-- Banner -->
 
     <!-- about area -->
-    <div class="rts-about  bg-light-green py-5">
+    <div class="rts-about rts-me bg-light-green py-5">
         <div class="container">
             <div class="row align-items-center py-5">
-                <div class="col-lg-6">
-                    <div class="rts-about-left-image-area">
-                        <div class="thumbnail" data-aos="zoom-in">
-                            <img src="assets/images/about/40.jpg" alt="">
-                        </div>
-                    </div>
-                </div>
                 <div class="col-lg-6 mt_md--30 mt_sm--40">
                     <!-- about nrighht content area start -->
                     <div class="about-right-content-area-solar-energy">
@@ -77,6 +69,48 @@
                                 ensuring
                                 pollution stays out of the air and clean, clear, and healthy skies remain for
                                 generations to come.</p>
+                        </div>
+
+
+                    </div>
+                    <!-- about nrighht content area end -->
+                </div>
+                <div class="col-lg-6">
+                    <div class="rts-about-left-image-area rts-me">
+                        <!-- custom border -->
+                        <div class="thumbnail" data-aos="zoom-in">
+                            <img src="assets/images/about/40.jpg" style="border-radius:24px" alt="">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="container">
+            <div class="row align-items-center py-5">
+                <div class="col-lg-6">
+                    <div class="rts-about-left-image-area">
+                        <div class="thumbnail" data-aos="zoom-in">
+                            <!-- custom border -->
+                            <img src="assets/images/about/40.jpg" style="border-radius:24px" alt="">
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-6 mt_md--30 mt_sm--40">
+                    <!-- about nrighht content area start -->
+                    <div class="about-right-content-area-solar-energy">
+                        <div class="section__title">
+                            <span class="skew-up">Carbonfree RECD</span>
+                            <h6 style="color: #35a356">
+                                Certified. Reliable. Built for impact</h6>
+                            <p> Our Retrofit Emission Control Devices help reduce harmful emissions like PM and
+                                hydrocarbon
+                                — without compromising performance. Whether for a small generator or a high-capacity
+                                unit,
+                                Novorbis RECDs are built to meet tomorrow’s environmental needs today. As per the latest
+                                CPCB compliance, carbonfree RECD ensures state of the art technology built precisely for
+                                diesel engines especially for CPCB-I and CPCB-II.
+                            </p>
+
                         </div>
 
 

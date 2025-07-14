@@ -1,7 +1,5 @@
 <!-- header area -->
 <div class="rts-header header-style-nine">
-
-
     <header class="header-four header--sticky colorChangeForNavbar" style="border-bottom:1px solid #eee;">
         <div class="header-left">
             <a href="index.php">
@@ -9,7 +7,6 @@
             </a>
         </div>
         <div class="nav-area">
-
             <!-- navigation area start -->
             <div class="header-nav main-nav-one">
                 <nav>

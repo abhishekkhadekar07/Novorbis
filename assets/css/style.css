@@ -69,6 +69,9 @@
   background-position: center;
 }
 
+.bg-light-white {
+  background-color: white !important;
+}
 
 .bg-green {
   background-color: #4baa55;
