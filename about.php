@@ -87,6 +87,21 @@
                     <p>Today, Novorbis continues its mission with a growing portfolio of emission control technologies
                         committed to creating a cleaner, healthier future for all.</p>
                 </div> -->
+                    <!-- Need to be done by some designers -->
+                </div>
+                <div class="bg-light-green" style="display:flex;">
+                    <img src="assets/images/team/profile.jpg" style="width:200px; height:150px" alt="ceo photo" />
+                    <p>
+                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto unde eum odio
+                        iure consectetur dolorum quia quaerat, aliquid sequi ipsam sunt eveniet voluptates autem
+                        provident
+                        porro et recusandae odit quis!
+                        Consequatur amet nulla sed ipsam dicta nihil explicabo incidunt cum error soluta. Quasi odio
+                        eius
+                        aliquam ex pariatur officia ad inventore, amet eveniet, saepe quod excepturi nisi vero molestiae
+                        sapiente.
+                    </p>
+
                 </div>
             </div>
         </div>
