@@ -263,137 +263,137 @@
         <div class="container">
             <div class="row justify-content-center text-center">
                 <div class="col-lg-5">
-                    <div class="section__title">
-                        <span class="skew-up">The Only Universally Compatible RECD </span>
+                    <div class="section__title" style="width: 920px;position: relative;right: 187px;">
+                        <span class="skew-up">The Universal RECD Range </span>
                         <p class="title skew-up mb--60">
                             Novorbis’s Carbonfree RECDs are compatible with all diesel genset models, including newer
-                            models (and yes, your silencer stays untouched!)
+                            models.
                         </p>
                     </div>
                 </div>
             </div>
             <div class="row g-5">
-                <div class="col-lg-3 col-xl-2 col-md-6 col-sm-6 col-6 mt-1 px-1">
+                <div class="col-lg-2 col-xl-2 col-md-4 col-sm-6 col-6 px-3 mb-4 d-flex justify-content-center">
                     <div class="brand-hover-zoom">
                         <img src="assets/images/brand/mahindra-powrel.jpg" alt="mahindra-powrel"
                             class="img-fluid w-100 shadow rounded-5">
                     </div>
                 </div>
-                <div class="col-lg-3 col-xl-2 col-md-6 col-sm-6 col-6 mt-1 px-1">
+                <div class="col-lg-2 col-xl-2 col-md-4 col-sm-6 col-6 px-3 mb-4 d-flex justify-content-center">
                     <div class="brand-hover-zoom">
                         <img src="assets/images/brand/kisloskar.jpg" alt="kisloskar"
                             class="img-fluid w-100 shadow rounded-5">
                     </div>
                 </div>
-                <div class="col-lg-3 col-xl-2 col-md-6 col-sm-6 col-6 mt-1 px-1">
+                <div class="col-lg-2 col-xl-2 col-md-4 col-sm-6 col-6 px-3 mb-4 d-flex justify-content-center">
                     <div class="brand-hover-zoom">
                         <img src="assets/images/brand/cumins.jpg" alt="" class="img-fluid w-100 shadow rounded-5">
                     </div>
                 </div>
-                <div class="col-lg-3 col-xl-2 col-md-6 col-sm-6 col-6 mt-1 px-1">
+                <div class="col-lg-2 col-xl-2 col-md-4 col-sm-6 col-6 px-3 mb-4 d-flex justify-content-center">
                     <div class="brand-hover-zoom">
                         <img src="assets/images/brand/ashok-leyland.jpg" alt=""
                             class="img-fluid w-100 shadow rounded-5">
                     </div>
                 </div>
-                <div class="col-lg-3 col-xl-2 col-md-6 col-sm-6 col-6 mt-1 px-1">
+                <div class="col-lg-2 col-xl-2 col-md-4 col-sm-6 col-6 px-3 mb-4 d-flex justify-content-center">
                     <div class="brand-hover-zoom">
                         <img src="assets/images/brand/greaves-cotton.jpg" alt=""
                             class="img-fluid w-100 shadow rounded-5">
                     </div>
                 </div>
-                <div class="col-lg-3 col-xl-2 col-md-6 col-sm-6 col-6 mt-1 px-1">
+                <div class="col-lg-2 col-xl-2 col-md-4 col-sm-6 col-6 px-3 mb-4 d-flex justify-content-center">
                     <div class="brand-hover-zoom">
                         <img src="assets/images/brand/honda.jpg" alt="" class="img-fluid w-100 shadow rounded-5">
                     </div>
                 </div>
-                <div class="col-lg-3 col-xl-2 col-md-6 col-sm-6 col-6 mt-1 px-1">
+                <div class="col-lg-2 col-xl-2 col-md-4 col-sm-6 col-6 px-3 mb-4 d-flex justify-content-center">
                     <div class="brand-hover-zoom">
                         <img src="assets/images/brand/yamaha.jpg" alt="" class="img-fluid w-100 shadow rounded-5">
                     </div>
                 </div>
-                <div class="col-lg-3 col-xl-2 col-md-6 col-sm-6 col-6 mt-1 px-1">
+                <div class="col-lg-2 col-xl-2 col-md-4 col-sm-6 col-6 px-3 mb-4 d-flex justify-content-center">
                     <div class="brand-hover-zoom">
                         <img src="assets/images/brand/mitsubishi.jpg" alt="" class="img-fluid w-100 shadow rounded-5">
                     </div>
                 </div>
-                <div class="col-lg-3 col-xl-2 col-md-6 col-sm-6 col-6 mt-1 px-1">
+                <div class="col-lg-2 col-xl-2 col-md-4 col-sm-6 col-6 px-3 mb-4 d-flex justify-content-center">
                     <div class="brand-hover-zoom">
                         <img src="assets/images/brand/caterpillar.jpg" alt="" class="img-fluid w-100 shadow rounded-5">
                     </div>
                 </div>
-                <div class="col-lg-3 col-xl-2 col-md-6 col-sm-6 col-6 mt-1 px-1">
+                <div class="col-lg-2 col-xl-2 col-md-4 col-sm-6 col-6 px-3 mb-4 d-flex justify-content-center">
                     <div class="brand-hover-zoom">
                         <img src="assets/images/brand/atlas-cops.jpg" alt="" class="img-fluid w-100 shadow rounded-5">
                     </div>
                 </div>
-                <div class="col-lg-3 col-xl-2 col-md-6 col-sm-6 col-6 mt-1 px-1">
+                <div class="col-lg-2 col-xl-2 col-md-4 col-sm-6 col-6 px-3 mb-4 d-flex justify-content-center">
                     <div class="brand-hover-zoom">
                         <img src="assets/images/brand/jakson.jpg" alt="" class="img-fluid w-100 shadow rounded-5">
                     </div>
                 </div>
-                <div class="col-lg-3 col-xl-2 col-md-6 col-sm-6 col-6 mt-1 px-1">
+                <div class="col-lg-2 col-xl-2 col-md-4 col-sm-6 col-6 px-3 mb-4 d-flex justify-content-center">
                     <div class="brand-hover-zoom">
                         <img src="assets/images/brand/sudhir.jpg" alt="" class="img-fluid w-100 shadow rounded-5">
                     </div>
                 </div>
-                <div class="col-lg-3 col-xl-2 col-md-6 col-sm-6 col-6 mt-1 px-1">
+                <div class="col-lg-2 col-xl-2 col-md-4 col-sm-6 col-6 px-3 mb-4 d-flex justify-content-center">
                     <div class="brand-hover-zoom">
                         <img src="assets/images/brand/koel.jpg" alt="" class="img-fluid w-100 shadow rounded-5">
                     </div>
                 </div>
-                <div class="col-lg-3 col-xl-2 col-md-6 col-sm-6 col-6 mt-1 px-1">
+                <div class="col-lg-2 col-xl-2 col-md-4 col-sm-6 col-6 px-3 mb-4 d-flex justify-content-center">
                     <div class="brand-hover-zoom">
                         <img src="assets/images/brand/greaves.jpg" alt="" class="img-fluid w-100 shadow rounded-5">
                     </div>
                 </div>
-                <div class="col-lg-3 col-xl-2 col-md-6 col-sm-6 col-6 mt-1 px-1">
+                <div class="col-lg-2 col-xl-2 col-md-4 col-sm-6 col-6 px-3 mb-4 d-flex justify-content-center">
                     <div class="brand-hover-zoom">
                         <img src="assets/images/brand/volvo.jpg" alt="" class="img-fluid w-100 shadow rounded-5">
                     </div>
                 </div>
-                <div class="col-lg-3 col-xl-2 col-md-6 col-sm-6 col-6 mt-1 px-1">
+                <div class="col-lg-2 col-xl-2 col-md-4 col-sm-6 col-6 px-3 mb-4 d-flex justify-content-center">
                     <div class="brand-hover-zoom">
                         <img src="assets/images/brand/kohler.jpg" alt="" class="img-fluid w-100 shadow rounded-5">
                     </div>
                 </div>
-                <div class="col-lg-3 col-xl-2 col-md-6 col-sm-6 col-6 mt-1 px-1">
+                <div class="col-lg-2 col-xl-2 col-md-4 col-sm-6 col-6 px-3 mb-4 d-flex justify-content-center">
                     <div class="brand-hover-zoom">
                         <img src="assets/images/brand/boudouin.jpg" alt="" class="img-fluid w-100 shadow rounded-5">
                     </div>
                 </div>
-                <div class="col-lg-3 col-xl-2 col-md-6 col-sm-6 col-6 mt-1 px-1">
+                <div class="col-lg-2 col-xl-2 col-md-4 col-sm-6 col-6 px-3 mb-4 d-flex justify-content-center">
                     <div class="brand-hover-zoom">
                         <img src="assets/images/brand/deutz.jpg" alt="" class="img-fluid w-100 shadow rounded-5">
                     </div>
                 </div>
-                <div class="col-lg-3 col-xl-2 col-md-6 col-sm-6 col-6 mt-1 px-1">
+                <div class="col-lg-2 col-xl-2 col-md-4 col-sm-6 col-6 px-3 mb-4 d-flex justify-content-center">
                     <div class="brand-hover-zoom">
                         <img src="assets/images/brand/wartsila.jpg" alt="" class="img-fluid w-100 shadow rounded-5">
                     </div>
                 </div>
-                <div class="col-lg-3 col-xl-2 col-md-6 col-sm-6 col-6 mt-1 px-1">
+                <div class="col-lg-2 col-xl-2 col-md-4 col-sm-6 col-6 px-3 mb-4 d-flex justify-content-center">
                     <div class="brand-hover-zoom">
                         <img src="assets/images/brand/man.jpg" alt="" class="img-fluid w-100 shadow rounded-5">
                     </div>
                 </div>
-                <div class="col-lg-3 col-xl-2 col-md-6 col-sm-6 col-6 mt-1 px-1">
+                <div class="col-lg-2 col-xl-2 col-md-4 col-sm-6 col-6 px-3 mb-4 d-flex justify-content-center">
                     <div class="brand-hover-zoom">
                         <img src="assets/images/brand/hyundai-power.jpg" alt=""
                             class="img-fluid w-100 shadow rounded-5">
                     </div>
                 </div>
-                <div class="col-lg-3 col-xl-2 col-md-6 col-sm-6 col-6 mt-1 px-1">
+                <div class="col-lg-2 col-xl-2 col-md-4 col-sm-6 col-6 px-3 mb-4 d-flex justify-content-center">
                     <div class="brand-hover-zoom">
                         <img src="assets/images/brand/powerica.jpg" alt="" class="img-fluid w-100 shadow rounded-5">
                     </div>
                 </div>
-                <div class="col-lg-3 col-xl-2 col-md-6 col-sm-6 col-6 mt-1 px-1">
+                <div class="col-lg-2 col-xl-2 col-md-4 col-sm-6 col-6 px-3 mb-4 d-flex justify-content-center">
                     <div class="brand-hover-zoom">
                         <img src="assets/images/brand/sterling.jpg" alt="" class="img-fluid w-100 shadow rounded-5">
                     </div>
                 </div>
-                <div class="col-lg-3 col-xl-2 col-md-6 col-sm-6 col-6 mt-1 px-1">
+                <div class="col-lg-2 col-xl-2 col-md-4 col-sm-6 col-6 px-3 mb-4 d-flex justify-content-center">
                     <div class="brand-hover-zoom">
                         <img src="assets/images/brand/powerparts.jpg" alt="" class="img-fluid w-100 shadow rounded-5">
                     </div>
