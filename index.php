@@ -223,10 +223,10 @@
                 <div class="col-lg-4 col-md-6 col-sm-6 col-12">
                     <!-- single cpounter up area start -->
                     <div class="single-counter-up-start-solari">
-                        <div class="bg-text">XXXX</div>
+                        <div class="bg-text">1000</div>
                         <div class="main-content">
-                            <h2 class="title"><span class="counter animated">XXXX</span>+</h2>
-                            <p>Pollution Reduced</p>
+                            <h2 class="title"><span class="counter animated">1000</span>+</h2>
+                            <p>Tonnes Pollution Reduced</p>
                         </div>
                     </div>
                     <!-- single cpounter up area end -->
@@ -237,7 +237,7 @@
                         <div class="bg-text">300</div>
                         <div class="main-content">
                             <h2 class="title"><span class="counter animated">300</span>+</h2>
-                            <p>Number of industries served</p>
+                            <p>Number of Industries served</p>
                         </div>
                     </div>
                     <!-- single cpounter up area end -->
@@ -248,7 +248,7 @@
                         <div class="bg-text">03</div>
                         <div class="main-content">
                             <h2 class="title"><span class="counter animated">03</span></h2>
-                            <p>Number of industries served</p>
+                            <p>Number of Manufacturing</p>
                         </div>
                     </div>
                     <!-- single cpounter up area end -->

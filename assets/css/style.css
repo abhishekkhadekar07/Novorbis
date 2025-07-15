@@ -15314,6 +15314,16 @@ header.header-three .sub-dropdown .submenu.third-lvl.base {
   margin: 0;
 }
 
+/* Nav bar position to left */
+.navBarPosition {
+    position: relative;
+    left: 352px;
+}
+
+.individualPadding{
+  padding-right: 25px;
+}
+
 @media only screen and (min-width: 1200px) and (max-width: 1599px) {
   .header--one-main .header-nav-area {
     padding: 0 57px;
