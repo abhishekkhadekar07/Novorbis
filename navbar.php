@@ -26,10 +26,10 @@
                             <a class="nav-link" href="#">Products</a>
                             <ul class="submenu">
                                 <li class="<?= ($currentPage == 'carbon-free-recds.php') ? 'active' : '' ?>">
-                                    <a href="carbon-free-recds.php">Carbon Free RECDs</a>
+                                    <a href="carbon-free-recds.php">Carbonfree RECDs</a>
                                 </li>
                                 <li class="<?= ($currentPage == 'carbon-free-caps.php') ? 'active' : '' ?>">
-                                    <a href="carbon-free-caps.php">Carbon Free CAPS</a>
+                                    <a href="carbon-free-caps.php">Carbonfree CAPS</a>
                                 </li>
                             </ul>
                         </li>
