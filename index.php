@@ -56,19 +56,20 @@
                 <div class="col-lg-6 mt_md--30 mt_sm--40">
                     <!-- about nrighht content area start -->
                     <div class="about-right-content-area-solar-energy">
-                        <div class="section__title">
+                        <div class="section__title widthAjustment">
                             <span class="skew-up">Breathing Change into Every Source</span>
-                            <p class="title">At Novorbis Itus, we believe that bold ideas are the foundation of cleaner
+                            <p class="title" style="text-align: justify;">At Novorbis Itus, we believe that bold
+                                ideas are the foundation of cleaner
                                 air. Guided by purpose and fueled by technology, we create emission control solutions
-                                that move diesel generators toward a more sustainable future.</p>
-
-                            <p class="title">Today, Novorbis is a one-stop solution for carbon reduction technologies,
+                                that move diesel generators toward a more sustainable future.
+                                Today, Novorbis is a one-stop solution for carbon reduction technologies,
                                 working towards
-                                a cleaner and healthier tomorrow.</p>
-                            <p class="title">We are proudly aligned with the vision of a Pollution-Free Viksit Bharat —
+                                a cleaner and healthier tomorrow.
+                                We are proudly aligned with the vision of a Pollution-Free Viksit Bharat —
                                 ensuring
                                 pollution stays out of the air and clean, clear, and healthy skies remain for
-                                generations to come.</p>
+                                generations to come.
+                            </p>
                         </div>
 
 
@@ -79,7 +80,8 @@
                     <div class="rts-about-left-image-area rts-me">
                         <!-- custom border -->
                         <div class="thumbnail" data-aos="zoom-in">
-                            <img src="assets/images/about/40.jpg" style="border-radius:24px" alt="">
+                            <img src="assets/images/about/40.jpg"
+                                style="border-radius: 24px;height: 378px; width: 609px;;" alt="">
                         </div>
                     </div>
                 </div>
@@ -91,7 +93,8 @@
                     <div class="rts-about-left-image-area">
                         <div class="thumbnail" data-aos="zoom-in">
                             <!-- custom border -->
-                            <img src="assets/images/about/40.jpg" style="border-radius:24px" alt="">
+                            <img src="assets/images/about/40.jpg"
+                                style="border-radius: 24px;height: 378px;width: 615px;" alt="">
                         </div>
                     </div>
                 </div>
@@ -102,7 +105,9 @@
                             <span class="skew-up">Carbonfree RECD</span>
                             <h6 style="color: #35a356">
                                 Certified. Reliable. Built for impact</h6>
-                            <p> Our Retrofit Emission Control Devices help reduce harmful emissions like PM and
+                            <p style="position:relative;bottom:14px;text-align: justify; width: 606px;"> Our Retrofit
+                                Emission Control Devices help reduce
+                                harmful emissions like PM and
                                 hydrocarbon
                                 — without compromising performance. Whether for a small generator or a high-capacity
                                 unit,
@@ -112,7 +117,17 @@
                             </p>
 
                         </div>
+                        <div class="section__title">
+                            <span class="skew-up">Carbonfree CAPS</span>
+                            <h6 style="color: #35a356">Efficient. Robust. Built for sensitive spaces.</h6>
+                            <p style="position:relative;bottom:14px;text-align: justify; width: 606px;">
+                                Crematorium Air Purification System is specially designed to reduce harmful emissions
+                                released during cremations. It targets pollutants like Particulate Matter, VOCs, and
+                                toxic gases, ensuring cleaner air in and around crematoriums. With strong filtration and
+                                low maintenance, CAPS supports environmental care where it’s needed most.
+                            </p>
 
+                        </div>
 
                     </div>
                     <!-- about nrighht content area end -->
@@ -140,7 +155,8 @@
                 <div class="col-lg-4 col-xl-3 col-md-6">
                     <div class="single__install shadow" data-aos="fade-up" data-aos-duration="300">
                         <div class="install__bg__image">
-                            <img src="assets/images/install/05.jpg" alt="">
+                            <img src="assets/images/install/05.jpg"
+                                style="border-radius: 24px;height: 378px;width: 525px;" alt="">
                         </div>
                         <div class="single__install--content">
                             <!-- <div class="install__icon">

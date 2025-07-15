@@ -31984,3 +31984,11 @@ edit .quantity-edit button {
 .colorChangeForNavbar {
   background-color: #fff !important;
 }
+
+/* //width adjustment for webview */
+
+.widthAjustment {
+  width: 591px !important;
+  position: relative;
+  /* bottom: 94px; */
+}
