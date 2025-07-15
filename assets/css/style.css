@@ -31986,7 +31986,7 @@ edit .quantity-edit button {
 }
 
 /* //width adjustment for webview */
-
+/* todo: media query still need to be applied */
 .widthAjustment {
   width: 591px !important;
   position: relative;
