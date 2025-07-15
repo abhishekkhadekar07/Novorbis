@@ -11,7 +11,7 @@
         <div class="nav-area">
 
             <!-- navigation area start -->
-            <div class="header-nav main-nav-one">
+            <div class="header-nav main-nav-one navBarPosition">
                 <nav>
                     <?php
                     $currentPage = basename($_SERVER['PHP_SELF']);
@@ -19,14 +19,14 @@
 
                     <ul>
                         <li class="<?= ($currentPage == 'index.php') ? 'active' : '' ?>">
-                            <a class="nav-link" href="index.php">Home</a>
+                            <a class="nav-link individualPadding" href="index.php">Home</a>
                         </li>
                         <li class="<?= ($currentPage == 'about.php') ? 'active' : '' ?>">
-                            <a class="nav-link" href="about.php">About Us</a>
+                            <a class="nav-link individualPadding" href="about.php">About Us</a>
                         </li>
                         <li
                             class="has-dropdown <?= ($currentPage == 'carbon-free-recds.php' || $currentPage == 'carbon-free-caps.php') ? 'active' : '' ?>">
-                            <a class="nav-link" href="#">Products</a>
+                            <a class="nav-link individualPadding" href="#">Products</a>
                             <ul class="submenu">
                                 <li class="<?= ($currentPage == 'carbon-free-recds.php') ? 'active' : '' ?>">
                                     <a href="carbon-free-recds.php">RECDs</a>
@@ -37,13 +37,13 @@
                             </ul>
                         </li>
                         <li class="<?= ($currentPage == 'regulations.php') ? 'active' : '' ?>">
-                            <a class="nav-link" href="regulations.php">Regulations</a>
+                            <a class="nav-link individualPadding" href="regulations.php">Regulations</a>
                         </li>
                         <li class="<?= ($currentPage == 'media.php') ? 'active' : '' ?>">
-                            <a class="nav-link" href="media.php">Media</a>
+                            <a class="nav-link individualPadding" href="media.php">Media</a>
                         </li>
                         <li class="<?= ($currentPage == 'contact.php') ? 'active' : '' ?>">
-                            <a class="nav-link" href="contact.php">Contact</a>
+                            <a class="nav-link individualPadding" href="contact.php">Contact</a>
                         </li>
                     </ul>
                 </nav>
