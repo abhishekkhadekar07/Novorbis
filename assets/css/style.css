@@ -14204,6 +14204,7 @@ header.header-four .header-right .action-button-menu #menu-btn {
 .header-four.header--sticky.sticky {
   background-color: rgb(0 0 0 / 99%);
   opacity: 0.7;
+  width: 115%;
 }
 
 .draw {
