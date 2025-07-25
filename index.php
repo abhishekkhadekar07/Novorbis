@@ -25,10 +25,10 @@
 <body>
     <?php include "navbar1.php" ?>
 
-    <!-- Banner -->
+        <!-- Banner -->
     <div class="rts-banner-six-area bg-image-solution banner-six-height">
         <video muted loop autoplay>
-            <source src="assets/images/bg-3.mp4" type="video/mp4">
+            <source src="assets/images/bg-2.mp4" type="video/mp4">
         </video>
         <div class="container">
             <div class="row">
@@ -48,94 +48,66 @@
 
     </div>
     <!-- Banner -->
-
-    <!-- about area -->
-    <div class="rts-about rts-me bg-light-green py-5">
+    <div class="bg-light py-5">
         <div class="container">
-            <div class="row align-items-center py-5">
-                <div class="col-lg-6 mt_md--30 mt_sm--40">
-                    <!-- about nrighht content area start -->
-                    <div class="about-right-content-area-solar-energy">
-                        <div class="section__title widthAjustment">
-                            <span class="skew-up">Breathing Change into Every Source</span>
-                            <p class="title" style="text-align: justify;">At Novorbis Itus, we believe that bold
-                                ideas are the foundation of cleaner
-                                air. Guided by purpose and fueled by technology, we create emission control solutions
-                                that move diesel generators toward a more sustainable future.
-                                Today, Novorbis is a one-stop solution for carbon reduction technologies,
-                                working towards
-                                a cleaner and healthier tomorrow.
-                                We are proudly aligned with the vision of a Pollution-Free Viksit Bharat —
-                                ensuring
-                                pollution stays out of the air and clean, clear, and healthy skies remain for
-                                generations to come.
-                            </p>
-                        </div>
-
-
-                    </div>
-                    <!-- about nrighht content area end -->
+            <!-- SECTION 1: Intro -->
+            <div class="row align-items-center mb-5">
+                <div class="col-md-6">
+                    <h2 class="text-success fw-bold mb-3">Breathing Change into Every Engine</h2>
+                    <p class="text-muted fs-5">
+                        At <strong>Novorbis Itus</strong>, we believe cleaner air starts with bold ideas. Driven by
+                        purpose and powered by technology, we design emission control solutions that bring diesel
+                        generators into a greener future.
+                    </p>
                 </div>
-                <div class="col-lg-6">
-                    <div class="rts-about-left-image-area rts-me">
-                        <!-- custom border -->
-                        <div class="thumbnail" data-aos="zoom-in">
-                            <img src="assets/images/about/40.jpg"
-                                style="border-radius: 24px;height: 378px; width: 609px;;" alt="">
-                        </div>
+                <div class="col-md-6">
+                    <div class="ratio ratio-16x9 rounded shadow">
+                        <iframe src="https://www.youtube.com/embed/YOUR_VIDEO_ID" title="YouTube video" allowfullscreen>
+                        </iframe>
                     </div>
+                </div>
+
+            </div>
+
+            <!-- SECTION 2: RECDs -->
+            <div class="row align-items-center mb-5">
+                <div class="col-md-6">
+                    <img src="assets/images/img-1.jpg" alt="RECD Device"
+                        class="img-fluid custom-img-size d-block mx-auto">
+                </div>
+                <div class="col-md-6">
+                    <h6 class="text-uppercase text-muted fw-semibold">Our RECDs</h6>
+                    <h3 class="text-success fw-bold mb-3">Certified. Reliable. Built for impact.</h3>
+                    <p class="title">
+                        Our Retrofit Emission Control Devices help reduce harmful emissions like PM, CO, and
+                        hydrocarbons — without compromising performance. Whether for a small generator or a
+                        high-capacity unit, <strong>Novorbis RECDs</strong> are built to meet tomorrow’s environmental
+                        needs today.
+                    </p>
                 </div>
             </div>
-        </div>
-        <div class="container">
-            <div class="row align-items-center py-5">
-                <div class="col-lg-6">
-                    <div class="rts-about-left-image-area">
-                        <div class="thumbnail" data-aos="zoom-in">
-                            <!-- custom border -->
-                            <img src="assets/images/about/40.jpg"
-                                style="border-radius: 24px;height: 378px;width: 615px;" alt="">
-                        </div>
-                    </div>
+
+            <!-- SECTION 3: CAPS -->
+            <div class="row align-items-center">
+
+                <div class="col-md-6">
+                    <h6 class="text-uppercase text-muted fw-semibold">Our CAPS</h6>
+                    <h3 class="text-success fw-bold mb-3">Efficient. Robust. Built for sensitive spaces.</h3>
+                    <p class="title">
+                        <strong>Crematorium Air Purification System</strong> is specially designed to reduce harmful
+                        emissions released during cremations. It targets pollutants like Particulate Matter, VOCs, and
+                        toxic gases, ensuring cleaner air in and around crematoriums. With strong filtration and low
+                        maintenance, <strong>CAPS</strong> supports environmental care where it’s needed most.
+                    </p>
                 </div>
-                <div class="col-lg-6 mt_md--30 mt_sm--40">
-                    <!-- about nrighht content area start -->
-                    <div class="about-right-content-area-solar-energy">
-                        <div class="section__title">
-                            <span class="skew-up">Carbonfree RECD</span>
-                            <h6 style="color: #35a356">
-                                Certified. Reliable. Built for impact</h6>
-                            <p style="position:relative;bottom:14px;text-align: justify; width: 606px;"> Our Retrofit
-                                Emission Control Devices help reduce
-                                harmful emissions like PM and
-                                hydrocarbon
-                                — without compromising performance. Whether for a small generator or a high-capacity
-                                unit,
-                                Novorbis RECDs are built to meet tomorrow’s environmental needs today. As per the latest
-                                CPCB compliance, carbonfree RECD ensures state of the art technology built precisely for
-                                diesel engines especially for CPCB-I and CPCB-II.
-                            </p>
+                <div class="col-md-6">
+                    <img src="assets/images/img-2.jpg" alt="CAPS System"
+                        class="img-fluid custom-img-size d-block mx-auto">
 
-                        </div>
-                        <div class="section__title">
-                            <span class="skew-up">Carbonfree CAPS</span>
-                            <h6 style="color: #35a356">Efficient. Robust. Built for sensitive spaces.</h6>
-                            <p style="position:relative;bottom:14px;text-align: justify; width: 606px;">
-                                Crematorium Air Purification System is specially designed to reduce harmful emissions
-                                released during cremations. It targets pollutants like Particulate Matter, VOCs, and
-                                toxic gases, ensuring cleaner air in and around crematoriums. With strong filtration and
-                                low maintenance, CAPS supports environmental care where it’s needed most.
-                            </p>
-
-                        </div>
-
-                    </div>
-                    <!-- about nrighht content area end -->
                 </div>
             </div>
         </div>
     </div>
-    <!-- about area -->
 
     <!-- What We Do -->
     <div class="rts-installation section__bg rts-section-gap py-5   ">
