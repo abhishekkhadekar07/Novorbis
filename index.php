@@ -28,7 +28,7 @@
         <!-- Banner -->
     <div class="rts-banner-six-area bg-image-solution banner-six-height">
         <video muted loop autoplay>
-            <source src="assets/images/bg-2.mp4" type="video/mp4">
+            <source src="assets/images/bg-3.mp4" type="video/mp4">
         </video>
         <div class="container">
             <div class="row">
@@ -586,6 +586,12 @@
     </div>
 
     <style>
+        .custom-img-size {
+            width: 400px;
+            height: auto;
+            border-radius:10px;
+        }
+        
         .client-marquee-wrap {
             overflow: hidden;
         }
